@@ -1,0 +1,41 @@
+<h1> The Future of Augmented Reality <h1>
+
+<p>While movies in a far flung future like Minority report have floating AR interfaces available in an instant seemed far fetched even a few years ago the advancements in AR are coming fast in a wide range of fields. <p>
+
+<h2> Gaming <h2>
+
+<p>Game advancements are coming faster and faster for AR. The future will move past the more simplistic headsets and even include a recent eye tracking breakthrough at Dartmouth college: </p>
+<br>
+<p>“ By using near-infrared lights and photodiodes, Dartmouth's DartNets Lab has created an energy-efficient, wearable system that tracks rapid eye movements and allows hands-free input of system commands...Using the eyes as effective input devices in human-to-computer interaction systems like video games requires precision tracking of rapid eye movements at the sub-millimeter level. Ideal tracking devices should be portable and consume low levels of power to eliminate frequent charging. Up until now, no such system has existed.
+According to the Dartmouth research team, existing wearable eye trackers fall short mainly because of the inability to match high tracking performance with low energy consumption. Most trackers use cameras to capture eye images, requiring intensive image processing and resulting in high costs and the need for clunky external battery packs”
+ 
+Link: https://techxplore.com/news/2018-10-eye-tracking-glasses-vision-future-augmented.html
+ 
+Video example: https://youtu.be/b5AGVpQefss </p>
+<br> 
+
+<h2> Healthcare <h2>
+<p>Moving even further beyond gaming Marketwatch predicts that the growth of AR in the healthcare field will increase more than 30% in the next decade: </p>
+<br>
+<p>“AR & VR Healthcare Market valued approximately USD 748.3 million in 2017 is anticipated to grow with a healthy growth rate of more than 30.1% over the forecast period 2018-2025. Increasing investments in emerging technologies and growing adoption in of Augmented Reality and Virtual Reality in the medical field are the major driving factors of AR & VR Healthcare market. The market is driven mainly by applications in surgical simulation, diagnostic imaging, patient care management, rehabilitation and health management...The consumption of augmented reality & virtual Reality saves time and reduce extra time taking. The AR & VR can significantly improve the quality of treatment in the healthcare field and receive from their healthcare provider. Therefore, both AR & VR play an important role in the field of healthcare market. It has witnessing that it is the best solution for surgery and for healthcare market.”
+ 
+2018-2025. Increasing investments in emerging technologies and growing adoption in of Augmented Reality and Virtual Reality in the medical field are the major driving factors of AR & VR Healthcare market. The market is driven mainly by applications in surgical simulation, diagnostic imaging, patient care management, rehabilitation and health management...The consumption of augmented reality & virtual Reality saves time and reduce extra time taking. The AR & VR can significantly improve the quality of treatment in the healthcare field and receive from their healthcare provider. Therefore, both AR & VR play an important role in the field of healthcare market. It has witnessing that it is the best solution for surgery and for healthcare market.”
+ 
+Link: https://www.marketwatch.com/press-release/ar-vr-healthcare-market-to-reach-usd-614178-million-by-2025-2018-10-25 </p>
+<br>
+<h2>Employee training</h2>
+<p>Even beyond healthcare AR is starting to permeate various facets of everyday life. For example; many fortune 500 companies have started using AR and even Virtual Reality. </p>
+<br> 
+<p>“Several Fortune 500 companies, such as Boeing, UPS and Walmart, are folding VR into worker-education programs on a wide scale. And some have been happily impressed with the results.
+"We find that [drivers] are ... learning the verbiage much faster, and its the same verbiage they have to use when out on the road with their supervisor," said Laura Collings, training manager at UPS. "Virtual reality has unlimited possibilities. We're looking at every opportunity we can right now."
+ 
+"We find that [drivers] are ... learning the verbiage much faster, and its the same verbiage they have to use when out on the road with their supervisor," said Laura Collings, training manager at UPS. "Virtual reality has unlimited possibilities. We're looking at every opportunity we can right now."
+UPS uses HTC Vive VR headsets to help drivers spot potential hazards when 'driving' down a virtual road. It's a training exercise that previously involved a touchscreen, but the company realized that in using that tool, it was sending the message that it was OK for drivers to take their hands off the steering wheel.
+The training takes place in the company's 11 Integrad driver-training facilities around the world. Over a five-day period, new drivers are taught in a classroom setting, given demonstrations, then put in a VR environment. Since adding the VR component, the retention rate has climbed to 75 percent.
+"You can train people faster, and people learn faster in a VR environment," said Collings.
+Canada's Queens University and SimforHealth are counting on that as well. The two recently paired with HTC to open a VR training facility for medical students, letting them get experience in an environment where mistakes won't be fatal to patients. The facility will open in January 2019.
+"Virtual reality offers exciting ... opportunities for us to realistically simulate a wide range of clinical situations," said Dr. Dan Howes, director of the Queen's Faculty of Health Sciences Clinical Simulation Center. "We want learners to make all their beginner mistakes in the virtual environment, not on real patients."
+The facility's first scenario has students taking care of a virtual patient suffering from chest pains. To save him, they have to follow the right steps and order the right tests. The 8,000-sq.-ft. facility will eventually be used for other scenarios, including postgraduate training.”
+ 
+LINK: https://www.cnbc.com/2018/10/29/why-f500-companies-use-virtual-reality-to-train-workers-of-the-future.htmlz </p>
+  
